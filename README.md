@@ -105,7 +105,9 @@ int main(int argc, char *argv[])
 
 ## OUTPUT
 ![img_Ex04](image.png)
+
 ![img_Ex04](image-1.png)
+
 
 
 # RESULT:
